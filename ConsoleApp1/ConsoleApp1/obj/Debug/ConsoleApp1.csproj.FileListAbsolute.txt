@@ -1,0 +1,7 @@
+G:\VSSoruceCode\2019\UnAuthenticatedApp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\VSSoruceCode\2019\UnAuthenticatedApp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\VSSoruceCode\2019\UnAuthenticatedApp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\VSSoruceCode\2019\UnAuthenticatedApp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\VSSoruceCode\2019\UnAuthenticatedApp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\VSSoruceCode\2019\UnAuthenticatedApp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+G:\VSSoruceCode\2019\UnAuthenticatedApp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
